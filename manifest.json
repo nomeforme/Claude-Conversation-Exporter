@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Claude Conversation Exporter",
+    "name": "Claude Conversation Exporter - Local",
     "version": "1.0.0",
     "description": "Export your Claude.ai conversations with full message history",
       "permissions": [
